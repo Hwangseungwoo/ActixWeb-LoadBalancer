@@ -2,6 +2,8 @@
 
 ## Used Framework
 
+![actix-web](https://user-images.githubusercontent.com/81372047/209974438-bb8a1229-9dd3-4df8-aacd-6d614b0ee728.png)
+
 <div align="center">
   <h1>Actix Web</h1>
   <p>
