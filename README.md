@@ -1,8 +1,9 @@
  Load Balancer made by Rust
 
 ## Used Framework
-
-<center><img src="https://user-images.githubusercontent.com/81372047/209974438-bb8a1229-9dd3-4df8-aacd-6d614b0ee728.png"></center>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/81372047/209974438-bb8a1229-9dd3-4df8-aacd-6d614b0ee728.png" width="20%" height="30%">
+</p>
 
 <div align="center">
   <h1>Actix Web</h1>
