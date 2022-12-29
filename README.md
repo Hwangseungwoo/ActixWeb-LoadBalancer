@@ -1,4 +1,4 @@
- Load Balancer made by Rust
+# Load Balancer made by Rust
 
 ## Used Framework
 <p align="center">
