@@ -8,6 +8,9 @@
     <strong>Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust</strong>
   </p>
   <p>
+   ![actix-web](https://user-images.githubusercontent.com/81372047/209974305-a4a2bbc9-a917-41d1-9ecd-1bd5e096ab05.png)
+
+ 
 
 [![crates.io](https://img.shields.io/crates/v/actix-web?label=latest)](https://crates.io/crates/actix-web)
 [![Documentation](https://docs.rs/actix-web/badge.svg?version=4.0.0-rc.1)](https://docs.rs/actix-web/4.0.0-rc.1)
